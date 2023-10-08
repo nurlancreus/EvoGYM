@@ -8,7 +8,7 @@ import {
   FieldValues,
 } from "react-hook-form";
 
-import ContactUsPageGraphic from "@/assets/ContactUsPageGraphic.png";
+import ContactUsPageGraphic from "@/assets/images/ContactUsPageGraphic.png";
 import Heading from "@/shared/Heading";
 
 import { SelectedPage } from "@/model/types";

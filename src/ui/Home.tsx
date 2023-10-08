@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
-import HomePageText from "@/assets/HomePageText.png";
-import HomePageGraphic from "@/assets/HomePageGraphic.png";
-import SponsorRedBull from "@/assets/SponsorRedBull.png";
-import SponsorForbes from "@/assets/SponsorForbes.png";
-import SponsorFortune from "@/assets/SponsorFortune.png";
+import HomePageText from "@/assets/images/HomePageText.png";
+import HomePageGraphic from "@/assets/images/HomePageGraphic.png";
+import SponsorRedBull from "@/assets/images/SponsorRedBull.png";
+import SponsorForbes from "@/assets/images/SponsorForbes.png";
+import SponsorFortune from "@/assets/images/SponsorFortune.png";
 import ActionButton from "@/shared/ActionButton";
 import LearnMoreLink from "@/shared/LearnMoreLink";
 

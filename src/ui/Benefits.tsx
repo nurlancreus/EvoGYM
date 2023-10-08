@@ -5,7 +5,7 @@ import {
   AcademicCapIcon,
 } from "@heroicons/react/24/solid";
 
-import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
+import BenefitsPageGraphic from "@/assets/images/BenefitsPageGraphic.png";
 import Heading from "@/shared/Heading";
 import LearnMoreLink from "@/shared/LearnMoreLink";
 import ActionButton from "@/shared/ActionButton";

@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
-import Logo from "@/assets/Logo.png";
+import Logo from "@/assets/images/Logo.png";
 import ActionButton from "@/shared/ActionButton";
 
 import { SelectedPage } from "@/model/types";
